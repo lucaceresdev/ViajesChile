@@ -3,10 +3,11 @@
 }
 
 body {
-    background-color: rgb(250, 248, 245);
+    background-color: black;
 }
 
 p {
+    color : white;
     font-size: medium;
 }
 
@@ -49,12 +50,12 @@ p {
 }
 h1{
     text-align: center;
-    color: #1a2537;
+    color : white;
     font-size: 40px;
 }
 h2{
     text-align: center;
-    color: #1a2537;
+    color : white;
     font-size: 40px;
 }
 
